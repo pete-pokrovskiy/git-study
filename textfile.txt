@@ -4,4 +4,6 @@ some content from 12:32
  Changes added via Web
 
 
+Some new content
+
 New changes in master. fetch vs pull
