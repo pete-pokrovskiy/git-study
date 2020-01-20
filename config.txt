@@ -6,3 +6,5 @@ Key=Value
 Key=Value
 
 SomeKey=SomeValue
+
+NewKey=NewValue
