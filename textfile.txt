@@ -1,3 +1,11 @@
+some content from 12:32
+ 
+ 
+ Changes added via Web
+
+
+New changes in master. fetch vs pull
+
 Just local changes
 
 Just feature-x5 CHANGES
